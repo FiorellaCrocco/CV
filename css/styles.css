@@ -1,0 +1,15 @@
+* {
+    background-color: #FFE6FF;
+}
+
+h1, h3{
+    background-color: #800080;
+    color: whitesmoke;
+    text-align: center;
+}
+
+footer p{
+    background-color: #800080;
+    color: whitesmoke;
+    text-align: center;
+}
