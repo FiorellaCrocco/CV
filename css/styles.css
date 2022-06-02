@@ -27,11 +27,14 @@ ul li span{
     font-weight: bold;
     font-style: italic;
 }
+
+.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*
 ul.sangria>li+li{
     text-indent: 40px;
-}
- Esto va alinear la img 
-.align-center {
-    align-content: center;
 }*/
