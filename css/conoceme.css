@@ -9,6 +9,10 @@ header {
     background-size: 100%;
 }
 
+nav a{
+    font-weight: lighter;
+}
+
 h1, h3{
     background-color: #800080;
     color: whitesmoke;
@@ -23,15 +27,6 @@ footer p, footer a{
     text-align: center;
 }
 
-ul li span{
-    font-weight: bold;
-    font-style: italic;
+p{
+    text-align: justify;
 }
-/*
-ul.sangria>li+li{
-    text-indent: 40px;
-}
- Esto va alinear la img 
-.align-center {
-    align-content: center;
-}*/
